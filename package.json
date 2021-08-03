@@ -1,0 +1,20 @@
+{
+  "name": "@mylitvinov/hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my project on github from hexlet",
+  "main": "https://github.com/mylitvinov/hexlet-js.git/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylitvinov/hexlet-js.git"
+  },
+  "author": "mylitvinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mylitvinov/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/mylitvinov/hexlet-js#readme"
+}
